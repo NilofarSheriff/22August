@@ -10,6 +10,7 @@ namespace _22August
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
