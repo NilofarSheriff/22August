@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_22August.ex1</StartupObject>
+    <StartupObject>_22August.Ex2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
