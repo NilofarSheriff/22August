@@ -10,7 +10,7 @@ namespace _22August
     {
         static void Main(string[] args)
         {
-            int[] arr1 = new int[5];
+            int[] arr1 = new int[10];
 
             Console.WriteLine("Enter the value to be in the array");
             for(int i = 0; i < arr1.Length; i++)
