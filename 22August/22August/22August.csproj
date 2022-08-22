@@ -50,6 +50,7 @@
     <Compile Include="Ex2.cs" />
     <Compile Include="ex3.cs" />
     <Compile Include="ex4.cs" />
+    <Compile Include="ex5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
