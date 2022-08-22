@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_22August.ex6</StartupObject>
+    <StartupObject>_22August.ex7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="ex4.cs" />
     <Compile Include="ex5.cs" />
     <Compile Include="ex6.cs" />
+    <Compile Include="ex7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
