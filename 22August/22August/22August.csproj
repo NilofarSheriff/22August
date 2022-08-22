@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_22August.ex9</StartupObject>
+    <StartupObject>_22August._19AugustEx10</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="19AugustEx10.cs" />
     <Compile Include="ex1.cs" />
     <Compile Include="Ex2.cs" />
     <Compile Include="ex3.cs" />
