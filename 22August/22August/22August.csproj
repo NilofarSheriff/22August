@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_22August._22AugustEx13</StartupObject>
+    <StartupObject>_22August._22AugustEx14</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="22AugustEx11.cs" />
     <Compile Include="22AugustEx12.cs" />
     <Compile Include="22AugustEx13.cs" />
+    <Compile Include="22AugustEx15.cs" />
     <Compile Include="ex1.cs" />
     <Compile Include="Ex2.cs" />
     <Compile Include="ex3.cs" />
